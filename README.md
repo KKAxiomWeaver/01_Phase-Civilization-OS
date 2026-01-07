@@ -15,8 +15,3 @@ A unified phase–state framework for Energy, Matter, Flight, and Habitats.
 
 K.K. (2026). *Phase Civilization OS: A Unified Phase–State Framework for Energy, Matter, Flight, and Habitats.*  
 KKAxiomWeaver Whitepaper Research Center. https://github.com/KKAxiomWeaver/01_Phase-Civilization-OS
-<p align="center">
-  <img src="90_Tools/Branding/kkaxiomweaver-banner.svg"
-       alt="KKAxiomWeaver Whitepaper Research Center Banner" />
-</p>
-
