@@ -2,12 +2,14 @@
 
 A unified phase–state framework for Energy, Matter, Flight, and Habitats.
 
-- 📄 Main paper: [`Phase-Civilization-OS_v1.0.md`](./Phase-Civilization-OS_v1.0.md)
-- 🧩 Subsystems:
-  - Energy OS (phase–state energy recipes)
-  - Matter OS (programmable materials)
-  - Flight OS (state-space navigation)
-  - Habitat OS (metastable habitats & infrastructure)
+📄 **Main paper**  
+- [`Phase-Civilization-OS_v1.0.md`](./Phase-Civilization-OS_v1.0.md)
+
+🧩 **Subsystems (defined in separate repos / folders)**  
+- Energy OS – phase–state energy recipes  
+- Matter OS – programmable materials  
+- Flight OS – state-space navigation  
+- Habitat OS – metastable habitats & infrastructure
 
 ## How to cite
 
